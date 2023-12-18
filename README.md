@@ -1,1 +1,2 @@
-# LearnGenerativeAI
+# Semantic Kernel Cookbook
+
