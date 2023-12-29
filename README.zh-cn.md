@@ -6,18 +6,16 @@
 
 
 
-| 课程名   | 介绍   |      .NET 示例      |  Python 示例   |
+| 课程名   | 介绍   |      .NET <br/>示例      |  Python <br/>示例   |
 |----------|:----------|:-------------:|------:|
 | 大模型入门 | 认识大模型，包括 OpenAI, Azure OpenAI Service 以及 Hugging face 上的大模型 | 进入 | 进入 |
 | Semantic Kernel 基础介绍 | 什么是 Semantic Kernel ? 它的优点和缺点是什么？ Semantic Kernel 相关概念等  | 进入 | 进入 |
-| 开启大模型的技能之门 - Plugins  |  我们知道和大模型交流需要使用提示工程？ 对于企业的应用都有不少针对业务的提示工程和大模型交流，<br/>在 Semantic Kernel 我们把它称为 Plugins。本节我们会介绍如何使用 Semantic Kernel 的 Plugins <br/>以及如何定义属于自己的 Plugins   |  进入   |   进入 |
-| Planner - 让大模型有规划工作 | 人类完成一个工作需要按步就班，大模型也一样。 Semantic Kernel 有非常强大的计划任务规划能力 - Planner<br/>，本章我们会和大家一一细说如何定义和使用 Planner 让您的应用更具智能化 | 进入 |    进入 |
-| 嵌入式的技巧 - Embeddings  |  构建 RAG 应用是现阶段最多人使用的大模型解决方案，通过 Semantic Kernel 可以非常方便地构建 RAG 应用<br/>，本章会从最基础部分开始让大家通过 Semantic Kernel 完成 Embeddings 的工作 | 进入   |  进入 |
+| 开启大模型的技能之门 - Plugins  |  我们知道和大模型交流需要使用提示工程？ 对于企业的应用都有不少针对业务的提示工程和大模型交流，在 Semantic Kernel 我们把它称为 Plugins。本节我们会介绍如何使用 Semantic Kernel 的 Plugins <br/>以及如何定义属于自己的 Plugins   |  进入   |   进入 |
+| Planner - 让大模型有规划工作 | 人类完成一个工作需要按步就班，大模型也一样。 Semantic Kernel 有非常强大的计划任务规划能力 - Planner，本章我们会和大家一一细说如何定义和使用 Planner 让您的应用更具智能化 | 进入 |    进入 |
+| 嵌入式的技巧 - Embeddings  |  构建 RAG 应用是现阶段最多人使用的大模型解决方案，通过 Semantic Kernel 可以非常方便地构建 RAG 应用，本章会从最基础部分开始让大家通过 Semantic Kernel 完成 Embeddings 的工作 | 进入   |  进入 |
 | 项目实战 | 通过三个项目实战，让大家动手真正了解 Semantic Kernel 的应用  | 进入 | 进入 |
 
 
-
-最后，也欢迎大家给本手册提出宝贵建议。
 
 
 
