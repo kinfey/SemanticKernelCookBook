@@ -1,5 +1,7 @@
 # **Semantic Kernel Cookbook**
 
+![cover](imgs/cover.png)
+
 With the rise of LLM, AI has entered the 2.0 era. Compared with previous AI technologies, the threshold has been lowered and the applicability has been enhanced. It is no longer limited to the field of data science, and more different types of jobs and roles of people are participating in large-scale research in the application scenarios of the model. For how traditional engineering projects or enterprise applications to enter the field of LLM, a framework is an important key. Especially for traditional projects, companies must think about how to access LLM faster and at low cost. In 2023, the first year of LLM, the open source community has a lot of frameworks and solutions based on LLM applications. I personally like LangChain, BenToML, and Semantic Kernel. But overall, Semantic Kernel is more suitable for traditional engineering and multi-language engineering teams, LangChain is suitable for data science personnel, and BenToML is suitable for multi-model deployment scenarios. In December 2023, when Semantic Kernel officially releases 1.0.1 based on .NET version, I also hope to use this manual to give you some ways to learn and get started. Although Semantic Kernel still has many imperfections, it does not prevent everyone from learning and using it.
 
 | Session  | Intro | <center>.NET<br/> Samples</center> | <center>Python <br/>Samples</center> |
