@@ -4,10 +4,10 @@ With the rise of LLM, AI has entered the 2.0 era. Compared with previous AI tech
 
 | Session  | Intro | .NET Samples | Python Samples |
 |----------|:----------|:-------------:|------:|
-| 00. Getting started with LLM | Begin to know LLM, including OpenAI, Azure OpenAI Service and LLM on Hugging face | Click | Click |
-| 01. Semantic Kernel's Basic concept | What is Semantic Kernel? What are its advantages and disadvantages? Semantic Kernel related concepts, etc. | Click | Click |
-| 02. The skills of LLM - Plugins | We know that communicating with LLM requires the use of prompt engineering? For enterprise applications, <br/>there are many business-oriented prompt engineering. In Semantic Kernel we call it Plugins. In this session we will introduce how to use Semantic Kernel Plugins and how to define your own Plugins | Click | Click |
-| 03. Planner - Let LLM have planning work | Human beings need to complete a job step by step, and the same goes for LLMs. Semantic Kernel has a very powerful task planning capability - Planner<br/>, in this session we will explain in detail how to define and use Planner to make your application more intelligent | Click | Click |
-| 04. Embedding Skills  | Building RAG applications is the most commonly used LLM solution at this stage. It is very convenient to build RAG applications through Semantic Kernel<br/>. This session will tell you how to use Semantic Kernel Embeddings  | Click | Click |
-| 05. HandsOnLab | Through three hands on labs projects, let everyone truly understand the application of Semantic Kernel | Click | Click |
+| Getting started with LLM | Begin to know LLM, including OpenAI, Azure OpenAI Service and LLM on Hugging face | Click | Click |
+| Semantic Kernel's Basic concept | What is Semantic Kernel? What are its advantages and disadvantages? Semantic Kernel related concepts, etc. | Click | Click |
+| The skills of LLM - Plugins | We know that communicating with LLM requires the use of prompt engineering? For enterprise applications, <br/>there are many business-oriented prompt engineering. In Semantic Kernel we call it Plugins. In this session we will introduce how to use Semantic Kernel Plugins and how to define your own Plugins | Click | Click |
+| Planner - Let LLM have planning work | Human beings need to complete a job step by step, and the same goes for LLMs. Semantic Kernel has a very powerful task planning capability - Planner<br/>, in this session we will explain in detail how to define and use Planner to make your application more intelligent | Click | Click |
+| Embedding Skills  | Building RAG applications is the most commonly used LLM solution at this stage. It is very convenient to build RAG applications through Semantic Kernel<br/>. This session will tell you how to use Semantic Kernel Embeddings  | Click | Click |
+| HandsOnLab | Through three hands on labs projects, let everyone truly understand the application of Semantic Kernel | Click | Click |
 
