@@ -12,7 +12,7 @@
 | 课程名   | 介绍   |      <center>.NET<br/>示例</center>      |  <center>Python<br/>示例</center>   |
 |----------|:----------|:-------------:|------:|
 | [了解大型语言模型](./docs/cn/00.IntroduceLLM.md) | 认识大模型，包括 OpenAI, Azure OpenAI Service 以及 Hugging face 上的大模型 |  |  |
-| 用 SDK 访问 Azure OpenAI Service  | 使用 SDK 用最熟悉的编程语言访问 Azure OpenAI Service  | <center>进入</center> | <center>进入</center> |
+| 用 SDK 访问 Azure OpenAI Service  | 使用 SDK 用最熟悉的编程语言访问 Azure OpenAI Service  | <center>[进入](../../notebooks/dotNET/01/dotNETSDKAOAIDemo.ipynb)</center> | <center>[进入](../../notebooks/python/01/PythonSDKAOAIDemo.ipynb)</center> |
 | Semantic Kernel 基础介绍 | 什么是 Semantic Kernel ? 它的优点和缺点是什么？ Semantic Kernel 相关概念等  | <center>进入</center> | <center>进入</center> |
 | 开启大模型的技能之门 - Plugins  |  我们知道和大模型交流需要使用提示工程？ 对于企业的应用都有不少针对业务的提示工程和大模型交流，在 Semantic Kernel 我们把它称为 Plugins。本节我们会介绍如何使用 Semantic Kernel 的 Plugins 以及如何定义属于自己的 Plugins   |  <center>进入</center>   |   <center>进入</center> |
 | Planner - 让大模型有规划工作 | 人类完成一个工作需要按步就班，大模型也一样。 Semantic Kernel 有非常强大的计划任务规划能力 - Planner，本章我们会和大家一一细说如何定义和使用 Planner 让您的应用更具智能化 | <center>进入</center> |    <center>进入</center> |
