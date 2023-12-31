@@ -1,7 +1,7 @@
 {
     "schema": 1,
     "type": "completion",
-    "description": "翻译",
+    "description": "Translation",
     "completion": {
       "max_tokens": 1024,
       "temperature": 0.6,
