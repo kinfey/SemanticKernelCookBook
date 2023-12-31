@@ -12,8 +12,8 @@ public class CompanySearchPlugin
     }
 
     [KernelFunction,Description("search weather")]
-    public string WeatherSearch(string text)
+    public string WeatherSearch(string city)
     {
-        return "Guangzhou, 2 degree,rainy";
+        return city + ", 2 degree,rainy";
     }
 }
