@@ -16,6 +16,7 @@
 				"ms-python.python",
 				"ms-toolsai.jupyter",
 				"ms-dotnettools.dotnet-interactive-vscode",
+				"ms-dotnettools.csdevkit",
 				"DavidAnson.vscode-markdownlint"
 			]
 		}
