@@ -7,13 +7,16 @@
 
 	"features": {
 		"ghcr.io/devcontainers/features/docker-in-docker:2": {},
-		"ghcr.io/rocker-org/devcontainer-features/miniforge:1": {}
+		"ghcr.io/rocker-org/devcontainer-features/miniforge:1": {},
+		"ghcr.io/devcontainers/features/dotnet:2": {}
 	},
 	"customizations": {
 		"vscode": {
 			"extensions": [
 				"ms-python.python",
-				"ms-toolsai.jupyter"
+				"ms-toolsai.jupyter",
+				"ms-dotnettools.dotnet-interactive-vscode",
+				"DavidAnson.vscode-markdownlint"
 			]
 		}
 	}
