@@ -1,1 +1,1 @@
-根据 {{$input}} 给到穿衣提示，并翻译成对应的 {{$language}}
+Get dressing tips based on {{$input}} and translate them into the corresponding {{$language}}
