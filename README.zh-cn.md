@@ -1,6 +1,6 @@
 # **Semantic Kernel 入门手册**
 
-***注意:*** 本书的内容基于 Semantic Kernel dotnet-1.6.3 and python-0.9.5b1 and java-1.0.0-rc2
+***注意:*** 本书的内容基于 Semantic Kernel dotnet-1.16.2 and python-1.3.0 and java-1.0.0-rc2
 
 ![cover](imgs/cover.png)
 
